@@ -1,4 +1,4 @@
-outerheight = 25;
+outerheight = 25; /* minimum 10mm */
 resolution = 50;
 
 module LK_BOX () {
